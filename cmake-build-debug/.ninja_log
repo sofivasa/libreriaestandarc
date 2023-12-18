@@ -1,3 +1,5 @@
 # ninja log v5
 0	165	1702935933968006456	CMakeFiles/libreriaestandarc.dir/main.c.o	b52a47bdd556db2a
 165	251	1702935934053784315	libreriaestandarc	a286266dd2b0bf09
+0	291	1702936705264840926	CMakeFiles/main.c.dir/main.c.o	738837c2bce4eaba
+291	421	1702936705395114494	main.c	e2cbf4f1d2483a3e
