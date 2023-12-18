@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "libreriaestandarc::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-libreriaestandarc-Debug-ca1a80b6fc5126947def.json",
-					"name" : "libreriaestandarc",
+					"id" : "main.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main.c-Debug-0e6c8bccc2f2da8a6fe9.json",
+					"name" : "main.c",
 					"projectIndex" : 0
 				}
 			]

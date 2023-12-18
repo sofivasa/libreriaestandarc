@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "libreriaestandarc"
+			"path" : "main.c"
 		}
 	],
 	"backtrace" : 1,
@@ -53,7 +53,7 @@
 			]
 		}
 	],
-	"id" : "libreriaestandarc::@6890427a1f51a3e7e1df",
+	"id" : "main.c::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -69,8 +69,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "libreriaestandarc",
-	"nameOnDisk" : "libreriaestandarc",
+	"name" : "main.c",
+	"nameOnDisk" : "main.c",
 	"paths" : 
 	{
 		"build" : ".",

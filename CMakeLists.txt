@@ -3,5 +3,4 @@ project(libreriaestandarc C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(libreriaestandarc
-        main.c)
+add_executable(main.c main.c)
